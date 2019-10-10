@@ -1,0 +1,20 @@
+---
+folder: Stronglifts
+image: https://www.runloop.com/images/heavyset/heavyset-background-4c06ed85.jpg
+color: #C72A2A
+Perform three times/week, alternating days.
+Add weight every workout
+More details: http://www.stronglifts.com/5x5
+---
+
+## Day A
+A. Squat, 5 sets, 5 reps, 2:00 rest
+B. Bench Press, 5 sets, 5 reps, 2:00 rest
+C. Barbell Row, 5 sets, 5 reps, 2:00 rest
+D. Dip, 3 sets, 5+ reps, 2:00 rest
+
+## Day B
+A. Squat, 5 sets, 5 reps, 2:00 rest
+B. Overhead Press, 5 sets, 5 reps, 2:00 rest
+C. Deadlift, 1 set, 5 reps, 2:00 rest
+D. Pull-up, 3 sets, 5+ reps, 2:00 rest

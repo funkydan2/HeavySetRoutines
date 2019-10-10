@@ -1,0 +1,20 @@
+---
+folder: Starting Strength - Phase A
+image: https://www.runloop.com/images/heavyset/heavyset-background-4c06ed85.jpg
+color: #2199DB
+Perform three times/week, alternating days.
+Add weight every workout
+More details: https://startingstrength.com/get-started/programs
+---
+
+## Day A
+A. Squat, 3 sets, 5 reps, 2:00 rest
+B. Overhead Press, 3 sets, 5 reps, 2:00 rest
+C. Deadlift, 1 set, 5 reps
+D. Dip, 2-3 sets, 5+ reps, 2:00 rest
+
+## Day B
+A. Squat, 3 sets, 5 reps, 2:00 rest
+B. Bench Press, 3 sets, 5 reps, 2:00 rest
+C. Deadlift, 1 set, 5 reps
+D. Pull-up, 2-3 sets, 5+ reps, 2:00 rest
