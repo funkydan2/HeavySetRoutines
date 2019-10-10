@@ -1,6 +1,6 @@
 ---
 folder: Starting Strength - Phase A
-image: https://www.runloop.com/images/heavyset/heavyset-background-4c06ed85.jpg
+image: https://github.com/funkydan2/HeavySetRoutines/raw/master/Starting%20Strength/ss.png
 color: #2199DB
 Perform three times/week, alternating days.
 Add weight every workout

@@ -1,6 +1,6 @@
 ---
 folder: Stronglifts
-image: https://www.runloop.com/images/heavyset/heavyset-background-4c06ed85.jpg
+image: https://github.com/funkydan2/HeavySetRoutines/raw/master/Strong%20Lifts/sl.png
 color: #C72A2A
 Perform three times/week, alternating days.
 Add weight every workout
