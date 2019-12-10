@@ -11,6 +11,12 @@ Using these routines is easy. Using your iPhone, select and *copy* the text of t
 
 For more details see [the HeavySet support site](https://intercom.help/runloop/en/articles/3385832-import-and-export-routines-as-plain-text)
 
+Some routines use % intensity to calculate loads. To use this feature you'll need to first set the Training Max for each lift within HeavySet. This is found under `Settings->Exercies`.
+
 ## Other sources of routines:
 
 *  [AdaptNation website](https://adapnation.io/micro-blogs/hyperworkouts/).
+
+# Credits
+Images used:
+* IvySaur - Photo by [Victor Freitas](https://unsplash.com/@victorfreitas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/barbell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
