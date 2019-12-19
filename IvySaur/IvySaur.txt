@@ -14,41 +14,41 @@ More details: https://www.drworkout.fitness/ivysaur-4-4-8-program/
 ---
 
 ## Week 1 Day 1
-A. Bench Press, 4 sets, 4 reps, 2:00 rest, 90% int, update manual
+A. Bench Press, 4 sets, 4 reps, 2:00 rest, 90% int
 B. Squat, 4 sets, 8 reps, 2:00 rest, 80% int
-C. Overhead Press, 4 sets, 8 reps, 2:00 rest, 80% int, update manual
+C. Overhead Press, 4 sets, 8 reps, 2:00 rest, 80% int
 D. Chin-Up, 4 sets, 8 reps, 2:00 rest, 80% int
 
 ## Week 1 Day 2
 A. Bench Press, 4 sets, 8 reps, 2:00 rest, 80% int
-B. Deadlift, 4 sets, 4 reps, 2:00 rest, 90% int, update manual
+B. Deadlift, 4 sets, 4 reps, 2:00 rest, 90% int
 C. Overhead Press, 4 sets, 4 reps, 2:00 rest, 90% int
 D. Barbell Row, 4 sets, 8 reps, 2:00 rest, 80% int
 
 ## Week 1 Day 3
 A. Bench Press, 3 sets, 4 reps, 2:00 rest, 90% int
-B. Bench Press, 1 set, 1+ reps, 2:00 rest, 90% int
+B. Bench Press, 1 set, 1+ reps, 2:00 rest, 90% int, update manual
 C. Squat, 3 sets, 4 reps, 2:00 rest, 90% int
-D. Squat, 1 set, 1+ reps, 2:00 rest, 90%, int
-E. Overhead Press, 4 sets, 8 reps, 2:00 rest, 80% int
-F. Chin-Up, 4 sets, 4 reps, 2:00 rest 90% int
+D. Squat, 1 set, 1+ reps, 2:00 rest, 90%, int, update manual
+E. Overhead Press, 4 sets, 8 reps, 2:00 rest, 80% int, update manual
+F. Chin-Up, 4 sets, 4 reps, 2:00 rest 90% int, update manual
 
 ## Week 2 Day 1
 A. Bench Press, 4 sets, 8 reps, 2:00 rest, 80% int
 B. Deadlift, 4 sets, 8 reps, 2:00 rest, 80% int
-C. Overhead Press, 4 sets, 4 reps, 2:00 rest, 90% int, update manual
-D. Barbell Row, 4 sets, 4 reps, 2:00 rest, 90% int, update manual
+C. Overhead Press, 4 sets, 4 reps, 2:00 rest, 90% int
+D. Barbell Row, 4 sets, 4 reps, 2:00 rest, 90% int
 
 ## Week 2 Day 2
-A. Bench Press, 4 sets, 4 reps, 2:00 rest, 90% int, update manual
+A. Bench Press, 4 sets, 4 reps, 2:00 rest, 90% int
 B. Squat, 4 sets, 8 reps, 2:00 rest, 80% int
 C. Overhead Press, 4 sets, 8 reps, 2:00 rest, 80% int
 D. Chin-Up, 4 sets, 8 reps, 2:00 rest, 80% int
 
 ## Week 2 Day 3
-A. Bench Press, 4 sets, 8 reps, 2:00 rest, 80% int
+A. Bench Press, 4 sets, 8 reps, 2:00 rest, 80% int, update manual
 B. Deadlift, 3 set, 4 reps, 2:00 rest, 90% int
-C. Deadlift, 1 set, 1+reps, 2:00 rest, 90% int
+C. Deadlift, 1 set, 1+reps, 2:00 rest, 90% int, update manual
 D. Overhead Press, 3 sets, 4 reps, 2:00 rest, 90% int
-E. Overhead Press, 1 set, 1+ reps, 2:00 rest, 90% int
-D. Barbell Row, 4 sets, 8 reps, 2:00 rest, 80% int
+E. Overhead Press, 1 set, 1+ reps, 2:00 rest, 90% int, update manual
+D. Barbell Row, 4 sets, 8 reps, 2:00 rest, 80% int, update manual
