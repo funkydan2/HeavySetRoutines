@@ -23,7 +23,7 @@ D. Chin-Up, 4 sets, 8 reps, 2:00 rest, 80% int
 A. Bench Press, 4 sets, 8 reps, 2:00 rest, 80% int
 B. Deadlift, 4 sets, 4 reps, 2:00 rest, 90% int
 C. Overhead Press, 4 sets, 4 reps, 2:00 rest, 90% int
-D. Barbell Row, 4 sets, 8 reps, 2:00 rest, 80% int
+D. Barbell Row, 4 sets, 8 reps, 2:00 rest, 80% int, update manual
 
 ## Week 1 Day 3
 A. Bench Press, 3 sets, 4 reps, 2:00 rest, 90% int
@@ -43,7 +43,7 @@ D. Barbell Row, 4 sets, 4 reps, 2:00 rest, 90% int
 A. Bench Press, 4 sets, 4 reps, 2:00 rest, 90% int
 B. Squat, 4 sets, 8 reps, 2:00 rest, 80% int
 C. Overhead Press, 4 sets, 8 reps, 2:00 rest, 80% int
-D. Chin-Up, 4 sets, 8 reps, 2:00 rest, 80% int
+D. Chin-Up, 4 sets, 8 reps, 2:00 rest, 80% int, update manual
 
 ## Week 2 Day 3
 A. Bench Press, 4 sets, 8 reps, 2:00 rest, 80% int, update manual
