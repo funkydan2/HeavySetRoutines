@@ -1,0 +1,40 @@
+---
+folder: P.H.U.L.
+image: https://github.com/funkydan2/HeavySetRoutines/raw/master/PHUL/PHUL.png
+color: #5181B0
+A four day split program designed to build muscle. Designed by Brandon Campell
+More details: https://www.muscleandstrength.com/workouts/phul-workout
+---
+
+## Day 1
+A. Bench Press, 3-4 sets, 3-5 reps, 2:00 rest
+B. Incline Dumbbell Bench Press, 3-4 sets, 6-10 reps, 1:00 rest
+C. Barbell Row, 3-4 set, 3-5 reps, 2:00 Rest
+D. Lat Pull Down, 3-4 sets, 6-10 reps, 1:00 rest
+E. Overhead Press, 2-3 sets, 5-8 reps, 2:00 rest
+F. Barbell Curl, 2-3 sets, 6-10 reps, 1:00 rest
+G. Skullcrusher, 2-3 sets, 6-10 reps, 1:00 rest
+
+## Day 2
+A. Squat, 3-4 sets, 3-5 reps, 2:00 rest
+B. Deadlift, 3-4 sets, 3-5 reps, 2:00 rest
+C. Leg Press, 3-5 sets, 10-15 reps, 2:00 rest
+D. Leg Curl, 3-4 sets, 6-10 reps, 1:00 rest
+E. Calf Raise, 4 sets, 6-10 reps, 1:00 rest 
+
+## Day 3
+A. Incline Bench Press, 3-4 sets, 8-12 reps, 2:00 rest
+B. Bench Dumbbell Fly, 3-4 sets, 8-12 reps, 2:00 rest
+C. Seated Cable Row, 3-4 sets, 8-12 reps, 1:30 rest
+D. One Arm Dumbbell Row, 3-4 sets, 8-12 reps, 1:00 rest
+E. Dumbbell Lat Raise, 3-4 sets, 8-12 reps, 1:30 rest
+F. Seated Incline Dumbbell Curl, 3-4 sets, 8-12 reps, 1:30 rest
+G. Cable Tricep Extension, 3-4 sets, 8-12 reps, 1:30 rest
+
+## Day 4
+A. Front Squat, 3-4 sets, 8-12 reps, 2:00 rest
+B. Barbell Lunge, 3-4 sets, 8-12 reps, 2:00 rest
+C. Leg Extension, 3-4 sets, 10-15 reps, 1:30 rest
+D. Leg Curl, 3-4 sets, 10-15 reps, 1:30 rest
+E. Seated Calf Raise, 3-4 sets, 8-12 reps, 1:30 rest
+F. Calf Press, 3-4 sets, 8-12 reps, 1:30 rest
