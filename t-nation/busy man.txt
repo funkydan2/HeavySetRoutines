@@ -1,0 +1,29 @@
+---
+folder: Busy Man's Lifting Plan
+image: https://github.com/funkydan2/HeavySetRoutines/raw/master/t-nation/busy_man.jpg
+color: #D30000
+An efficient 3-day full body plan utilising paired exercised. Designed by Akash Vaghela
+More details: https://www.t-nation.com/workouts/3-days-a-week-is-all-you-need
+---
+
+## Monday
+A1. Squat, 3 sets, 6-8 reps, 1:30 rest
+A2. Leg Curl, 3 sets, 6-8 reps, 1:30 rest
+B1. Pull-up, 3 sets, 6-8 reps, 1:30 Rest
+B2. Dip, 3 sets, 6-8 reps, 1:30 rest
+C. Farmer's Walk, 3 sets, 1 rep, 1:00 rest
+
+## Wednesday
+A1. Incline Dumbbell Press, 3 sets, 6-8 reps, 1:30 rest
+A2. Dumbbell Row, 3 sets, 6-8 reps, 1:30 rest
+B1. Bulgarian Split Squat, 3 sets, 8-12 reps, 1:30 rest
+B2. Back Extension, 3 sets, 8-12 reps, 1:30 rest
+C1. Hanging Leg Raise, 3 sets, 10-12 reps, 0:45 rest
+C2. Calf Raise, 3 sets, 10-12 reps, 0:45 rest 
+
+## Friday
+A. Deadlift, 3 sets, 6-8 reps, 2:30 rest
+B1. Seated Dumbbell Overhead Press, 3 sets, 6-8 reps, 1:30 rest
+B2. Pulldown, 3 sets, 6-8 reps, 1:30 rest
+C1. Hammer Curl, 3 sets, 8-12 reps, 0:45 rest
+C2. PJR Pullover, 3 sets, 8-12 reps, 0:45 rest
