@@ -1,4 +1,5 @@
 ---
+folder: Tactical Barbell - Operator
 image: https://github.com/funkydan2/HeavySetRoutines/raw/master/Tactical%20Barbell/operator.jpg
 color: #C72A2A
 
@@ -9,126 +10,126 @@ More details: https://liftvault.com/programs/strength/tactical-barbell/
 ---
 
 ## Day 1
-/Tactical Barbell - Operator/Week 1
+/Week 1
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 70% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 70% int
 C. Pull-up, 3-5 sets, 5 reps, 2:00 rest, 70% int
 
 ## Day 2
-/Tactical Barbell - Operator/Week 1
+/Week 1
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 70% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 70% int
 C. Deadlift, 3-5 sets, 5 reps, 2:00 rest, 70% int
 
 ## Day 3
-/Tactical Barbell - Operator/Week 1
+/Week 1
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 70% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 70% int
 C. Pull-up, 3-5 sets, 5 reps, 2:00 rest, 70% int
 
 ## Day 1
-/Tactical Barbell - Operator/Week 2
+/Week 2
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 80% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 80% int
 C. Pull-up, 3-5 sets, 5 reps, 2:00 rest, 80% int
 
 ## Day 2
-/Tactical Barbell - Operator/Week 2
+/Week 2
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 80% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 80% int
 C. Deadlift, 3-5 sets, 5 reps, 2:00 rest, 80% int
 
 ## Day 3
-/Tactical Barbell - Operator/Week 2
+/Week 2
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 80% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 80% int
 C. Pull-up, 3-5 sets, 5 reps, 2:00 rest, 80% int
 
 ## Day 1
-/Tactical Barbell - Operator/Week 3
+/Week 3
 
 A. Squat, 3-4 sets, 3 reps, 2:00 rest, 90% int
 B. Bench Press, 3-4 sets, 3 reps, 2:00 rest, 90% int
 C. Pull-up, 3-4 sets, 3 reps, 2:00 rest, 90% int
 
 ## Day 2
-/Tactical Barbell - Operator/Week 3
+/Week 3
 
 A. Squat, 3-4 sets, 3 reps, 2:00 rest, 90% int
 B. Bench Press, 3-4 sets, 3 reps, 2:00 rest, 90% int
 C. Deadlift, 3-4 sets, 3 reps, 2:00 rest, 90% int
 
 ## Day 3
-/Tactical Barbell - Operator/Week 3
+/Week 3
 
 A. Squat, 3-4 sets, 3 reps, 2:00 rest, 90% int
 B. Bench Press, 3-4 sets, 3 reps, 2:00 rest, 90% int
 C. Pull-up, 3-4 sets, 3 reps, 2:00 rest, 90% int
 
 ## Day 1
-/Tactical Barbell - Operator/Week 4
+/Week 4
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 75% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 75% int
 C. Pull-up, 3-5 sets, 5 reps, 2:00 rest, 75% int
 
 ## Day 2
-/Tactical Barbell - Operator/Week 4
+/Week 4
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 75% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 75% int
 C. Deadlift, 3-5 sets, 5 reps, 2:00 rest, 75% int
 
 ## Day 3
-/Tactical Barbell - Operator/Week 4
+/Week 4
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 75% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 75% int
 C. Pull-up, 3-5 sets, 5 reps, 2:00 rest, 75% int
 
 ## Day 1
-/Tactical Barbell - Operator/Week 5
+/Week 5
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 85% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 85% int
 C. Pull-up, 3-5 sets, 5 reps, 2:00 rest, 85% int
 
 ## Day 2
-/Tactical Barbell - Operator/Week 5
+/Week 5
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 85% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 85% int
 C. Deadlift, 3-5 sets, 5 reps, 2:00 rest, 85% int
 
 ## Day 3
-/Tactical Barbell - Operator/Week 5
+/Week 5
 
 A. Squat, 3-5 sets, 5 reps, 2:00 rest, 85% int
 B. Bench Press, 3-5 sets, 5 reps, 2:00 rest, 85% int
 C. Pull-up, 3-5 sets, 5 reps, 2:00 rest, 85% int
 
 ## Day 1
-/Tactical Barbell - Operator/Week 6
+/Week 6
 
 A. Squat, 3-4 sets, 3 reps, 2:00 rest, 95% int
 B. Bench Press, 3-4 sets, 3 reps, 2:00 rest, 95% int
 C. Pull-up, 3-4 sets, 3 reps, 2:00 rest, 95% int
 
 ## Day 2
-/Tactical Barbell - Operator/Week 6
+/Week 6
 
 A. Squat, 3-4 sets, 3 reps, 2:00 rest, 95% int
 B. Bench Press, 3-4 sets, 3 reps, 2:00 rest, 95% int
 C. Deadlift, 3-4 sets, 3 reps, 2:00 rest, 95% int, update manual  
 
 ## Day 3
-/Tactical Barbell - Operator/Week 6
+/Week 6
 
 A. Squat, 3-4 sets, 3 reps, 2:00 rest, 95% int, update manual  
 B. Bench Press, 3-4 sets, 3 reps, 2:00 rest, 95% int, update manual  
