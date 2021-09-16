@@ -1,5 +1,4 @@
 ---
-folder: Tactical Barbell - Operator
 image: https://github.com/funkydan2/HeavySetRoutines/raw/master/Tactical%20Barbell/operator.jpg
 color: #C72A2A
 
