@@ -22,4 +22,5 @@ Images used:
 
 * IvySaur - Photo by [Victor Freitas](https://unsplash.com/@victorfreitas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/barbell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 * Busy Man's Lifting Plan - Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/busy-fit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+* Tactical Barbel/Operator - Photo by [HIZIR KAYA](https://unsplash.com/@santoelia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/operator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
