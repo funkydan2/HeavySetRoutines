@@ -1,0 +1,31 @@
+---
+folder: Squat Bench Deadlift Overhead Press
+color: #f9f9f9  
+Perform 4 days a week.
+---
+
+## Squat
+A. Low Bar Back Squat, 3 sets, 8 reps, 3:00 rest
+B. Hamstring Curls, 3 sets, 10 reps, 1:30 rest
+C. Leg Press, 3 sets, 10 reps, 1:30 rest
+D. Calve Raises, 3 sets, 10 reps, 1:30 rest
+
+## Bench Press
+A. Bench Press, 3 sets, 8 reps, 3:00 rest
+B. Lat Pulldown, 3 sets, 10 reps, 1:30 rest
+C. Incline Dumbell Press, 3 sets, 10 reps, 1:30 rest
+D. Row, 3 sets, 10 reps, 1:30 rest
+E. Tricep Pushdown, 3 sets, 10 reps, 1"30 rest
+
+## Deadlift
+A. Deadlift, 3 sets, 8 reps, 3:00 rest
+B. Leg Curl, 3 sets, 10 reps, 1:30 rest
+C. Leg Extension, 3 sets, 10 reps, 1:30 rest
+D. Calve Raises, 3 sets, 10 reps, 1:30 rest
+
+## Overhead Press
+A. Overhead Press, 3 sets, 8 reps, 3:00 rest
+B. Lateral Raise, 3 sets, 10 reps, 1:30 rest
+C. Bent Over Row, 3 sets, 10 reps, 1:30 rest
+D. Tricep Pushdown, 3 sets, 10 reps, 1:30 rest
+E. Bicep Curl, 3 sets, 10 reps, 1:30 rest
