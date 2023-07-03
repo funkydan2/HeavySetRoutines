@@ -1,0 +1,520 @@
+---
+folder: Bullmastiff
+image: https://upload.wikimedia.org/wikipedia/commons/4/43/Bullmastiff_Lotte.jpg
+color: #000000
+
+- Original author: Alexander Bromley.
+- Support him on YouTube: https://www.youtube.com/@AlexanderBromley
+- Full program instructions: https://empire-barbell.com/wp-content/uploads/2022/08/Bullmastiff-PS-PDF.pdf
+- Four days a week, 18 weeks total.
+- Weeks 1-9: base phase.
+- Weeks 10-18: peak phase.
+
+
+
+PROGRESSION
+
+Last set of the main movement of each day is an AMRAP.
+
+To determine the increase in weight for the main lift: take the last week's weight lifted, and add 1% of your 1RM for each extra rep you did on last week's AMRAP.
+
+For example:
+- 1RM: 100kg
+- Last week's AMRAP target: 6+
+- Last week's actual AMRAP reps: 10
+- Total weight increase this week: (10 - 6)% of 100kg = 4% of 100kg = 4kg.
+
+
+
+DEVELOPMENTAL EXERCISES
+
+Second exercise of each day corresponds to a developmental variation of the antagonist movement w.r.t. the first exercise of the day.
+
+---
+
+## Base Wave 1 Week 1 Day 1
+A. Squat, 4 sets, 6+ reps, 2:00 rest, 65% int
+B. RDL, 3 sets, 12 reps, 2:00 rest, 6 RPE
+C. Barbell Row, 2 sets, 12-15 reps
+D. Leg Curl, 2 sets, 12-15 reps
+E. Leg Extension, 2 sets, 12-15 reps
+D. Deadbug, 2 sets, 12-15 reps
+
+## Base Wave 1 Week 1 Day 2
+A. Bench Press, 4 sets, 6+ reps, 2:00 rest, 65% int
+B. Tempo OHP, 3 sets, 12 reps, 2:00 rest, 6 RPE
+C. Tricep Overhead Extension, 2 sets, 12-15 reps
+D. Dumbbell Curl, 2 sets, 12-15 reps
+E. Face pull, 2 sets, 12-15 reps
+
+## Base Wave 1 Week 1 Day 3
+A. Deadlift, 4 sets, 6+ reps, 2:00 rest, 65% int
+B. Front Squat, 3 sets, 12 reps, 2:00 rest, 6 RPE
+C. Lat Pulldown, 2 sets, 12-15 reps
+D. Leg Curl, 2 sets, 12-15 reps
+E. Leg Extension, 2 sets, 12-15 reps
+D. Deadbug, 2 sets, 12-15 reps
+
+## Base Wave 1 Week 1 Day 4
+A. Overhead Press, 4 sets, 6+ reps, 2:00 rest, 65% int
+B. Spoto Press, 3 sets, 12 reps, 2:00 rest, 6 RPE
+C. Tricep Overhead Extension, 2 sets, 12-15 reps
+D. Dumbbell Curl, 2 sets, 12-15 reps
+E. Face pull, 2 sets, 12-15 reps
+
+## Base Wave 1 Week 2 Day 1
+A. Squat, 4 sets, 6+ reps, 2:00 rest, update manual
+B. RDL, 4 sets, 12 reps, 2:00 rest, 7 RPE
+C. Barbell Row, 3 sets, 12-15 reps
+D. Leg Curl, 3 sets, 12-15 reps
+E. Leg Extension, 3 sets, 12-15 reps
+D. Deadbug, 3 sets, 12-15 reps
+
+## Base Wave 1 Week 2 Day 2
+A. Bench Press, 4 sets, 6+ reps, 2:00 rest, update manual
+B. Tempo OHP, 4 sets, 12 reps, 2:00 rest, 7 RPE
+C. Tricep Overhead Extension, 3 sets, 12-15 reps
+D. Dumbbell Curl, 3 sets, 12-15 reps
+E. Face pull, 3 sets, 12-15 reps
+
+## Base Wave 1 Week 2 Day 3
+A. Deadlift, 4 sets, 6+ reps, 2:00 rest, update manual
+B. Front Squat, 4 sets, 12 reps, 2:00 rest, 7 RPE
+C. Lat Pulldown, 3 sets, 12-15 reps
+D. Leg Curl, 3 sets, 12-15 reps
+E. Leg Extension, 3 sets, 12-15 reps
+D. Deadbug, 3 sets, 12-15 reps
+
+## Base Wave 1 Week 2 Day 4
+A. Overhead Press, 4 sets, 6+ reps, 2:00 rest, update manual
+B. Spoto Press, 4 sets, 12 reps, 2:00 rest, 7 RPE
+C. Tricep Overhead Extension, 3 sets, 12-15 reps
+D. Dumbbell Curl, 3 sets, 12-15 reps
+E. Face pull, 3 sets, 12-15 reps
+
+## Base Wave 1 Week 3 Day 1
+A. Squat, 4 sets, 6+ reps, 2:00 rest, update manual
+B. RDL, 5 sets, 12 reps, 2:00 rest, 8 RPE
+C. Barbell Row, 4 sets, 12-15 reps
+D. Leg Curl, 4 sets, 12-15 reps
+E. Leg Extension, 4 sets, 12-15 reps
+D. Deadbug, 4 sets, 12-15 reps
+
+## Base Wave 1 Week 3 Day 2
+A. Bench Press, 4 sets, 6+ reps, 2:00 rest, update manual
+B. Tempo OHP, 5 sets, 12 reps, 2:00 rest, 8 RPE
+C. Tricep Overhead Extension, 4 sets, 12-15 reps
+D. Dumbbell Curl, 4 sets, 12-15 reps
+E. Face pull, 4 sets, 12-15 reps
+
+## Base Wave 1 Week 3 Day 3
+A. Deadlift, 4 sets, 6+ reps, 2:00 rest, update manual
+B. Front Squat, 5 sets, 12 reps, 2:00 rest, 8 RPE
+C. Lat Pulldown, 4 sets, 12-15 reps
+D. Leg Curl, 4 sets, 12-15 reps
+E. Leg Extension, 4 sets, 12-15 reps
+D. Deadbug, 4 sets, 12-15 reps
+
+## Base Wave 1 Week 3 Day 4
+A. Overhead Press, 4 sets, 6+ reps, 2:00 rest, update manual
+B. Spoto Press, 5 sets, 12 reps, 2:00 rest, 8 RPE
+C. Tricep Overhead Extension, 4 sets, 12-15 reps
+D. Dumbbell Curl, 4 sets, 12-15 reps
+E. Face pull, 4 sets, 12-15 reps
+
+## Base Wave 2 Week 1 Day 1
+A. Squat, 5 sets, 5+ reps, 2:00 rest, 70% int
+B. RDL, 3 sets, 10 reps, 2:00 rest, 6 RPE
+C. Barbell Row, 3 sets, 12-15 reps
+D. Leg Curl, 3 sets, 12-15 reps
+E. Leg Extension, 3 sets, 12-15 reps
+D. Deadbug, 3 sets, 12-15 reps
+
+## Base Wave 2 Week 1 Day 2
+A. Bench Press, 5 sets, 5+ reps, 2:00 rest, 70% int
+B. Tempo OHP, 3 sets, 10 reps, 2:00 rest, 6 RPE
+C. Tricep Overhead Extension, 3 sets, 12-15 reps
+D. Dumbbell Curl, 3 sets, 12-15 reps
+E. Face pull, 3 sets, 12-15 reps
+
+## Base Wave 2 Week 1 Day 3
+A. Deadlift, 5 sets, 5+ reps, 2:00 rest, 70% int
+B. Front Squat, 3 sets, 10 reps, 2:00 rest, 6 RPE
+C. Lat Pulldown, 3 sets, 12-15 reps
+D. Leg Curl, 3 sets, 12-15 reps
+E. Leg Extension, 3 sets, 12-15 reps
+D. Deadbug, 3 sets, 12-15 reps
+
+## Base Wave 2 Week 1 Day 4
+A. Overhead Press, 5 sets, 5+ reps, 2:00 rest, 70% int
+B. Spoto Press, 3 sets, 10 reps, 2:00 rest, 6 RPE
+C. Tricep Overhead Extension, 3 sets, 12-15 reps
+D. Dumbbell Curl, 3 sets, 12-15 reps
+E. Face pull, 3 sets, 12-15 reps
+
+## Base Wave 2 Week 2 Day 1
+A. Squat, 5 sets, 5+ reps, 2:00 rest, update manual
+B. RDL, 4 sets, 10 reps, 2:00 rest, 7 RPE
+C. Barbell Row, 4 sets, 12-15 reps
+D. Leg Curl, 4 sets, 12-15 reps
+E. Leg Extension, 4 sets, 12-15 reps
+D. Deadbug, 4 sets, 12-15 reps
+
+## Base Wave 2 Week 2 Day 2
+A. Bench Press, 5 sets, 5+ reps, 2:00 rest, update manual
+B. Tempo OHP, 4 sets, 10 reps, 2:00 rest, 7 RPE
+C. Tricep Overhead Extension, 4 sets, 12-15 reps
+D. Dumbbell Curl, 4 sets, 12-15 reps
+E. Face pull, 4 sets, 12-15 reps
+
+## Base Wave 2 Week 2 Day 3
+A. Deadlift, 5 sets, 5+ reps, 2:00 rest, update manual
+B. Front Squat, 4 sets, 10 reps, 2:00 rest, 7 RPE
+C. Lat Pulldown, 4 sets, 12-15 reps
+D. Leg Curl, 4 sets, 12-15 reps
+E. Leg Extension, 4 sets, 12-15 reps
+D. Deadbug, 4 sets, 12-15 reps
+
+## Base Wave 2 Week 2 Day 4
+A. Overhead Press, 5 sets, 5+ reps, 2:00 rest, update manual
+B. Spoto Press, 4 sets, 10 reps, 2:00 rest, 7 RPE
+C. Tricep Overhead Extension, 4 sets, 12-15 reps
+D. Dumbbell Curl, 4 sets, 12-15 reps
+E. Face pull, 4 sets, 12-15 reps
+
+## Base Wave 2 Week 3 Day 1
+A. Squat, 5 sets, 5+ reps, 2:00 rest, update manual
+B. RDL, 5 sets, 10 reps, 2:00 rest, 8 RPE
+C. Barbell Row, 5-6 sets, 12-15 reps
+D. Leg Curl, 5-6 sets, 12-15 reps
+E. Leg Extension, 5-6 sets, 12-15 reps
+D. Deadbug, 5-6 sets, 12-15 reps
+
+## Base Wave 2 Week 3 Day 2
+A. Bench Press, 5 sets, 5+ reps, 2:00 rest, update manual
+B. Tempo OHP, 5 sets, 10 reps, 2:00 rest, 8 RPE
+C. Tricep Overhead Extension, 5-6 sets, 12-15 reps
+D. Dumbbell Curl, 5-6 sets, 12-15 reps
+E. Face pull, 5-6 sets, 12-15 reps
+
+## Base Wave 2 Week 3 Day 3
+A. Deadlift, 5 sets, 5+ reps, 2:00 rest, update manual
+B. Front Squat, 5 sets, 10 reps, 2:00 rest, 8 RPE
+C. Lat Pulldown, 5-6 sets, 12-15 reps
+D. Leg Curl, 5-6 sets, 12-15 reps
+E. Leg Extension, 5-6 sets, 12-15 reps
+D. Deadbug, 5-6 sets, 12-15 reps
+
+## Base Wave 2 Week 3 Day 4
+A. Overhead Press, 5 sets, 5+ reps, 2:00 rest, update manual
+B. Spoto Press, 5 sets, 10 reps, 2:00 rest, 8 RPE
+C. Tricep Overhead Extension, 5-6 sets, 12-15 reps
+D. Dumbbell Curl, 5-6 sets, 12-15 reps
+E. Face pull, 5-6 sets, 12-15 reps
+
+## Base Wave 3 Week 1 Day 1
+A. Squat, 6 sets, 4+ reps, 2:00 rest, 75% int
+B. RDL, 3 sets, 8 reps, 2:00 rest, 6 RPE
+C. Barbell Row, 3 sets, 12-15 reps
+D. Leg Curl, 3 sets, 12-15 reps
+E. Leg Extension, 3 sets, 12-15 reps
+D. Deadbug, 3 sets, 12-15 reps
+
+## Base Wave 3 Week 1 Day 2
+A. Bench Press, 6 sets, 4+ reps, 2:00 rest, 75% int
+B. Tempo OHP, 3 sets, 8 reps, 2:00 rest, 6 RPE
+C. Tricep Overhead Extension, 3 sets, 12-15 reps
+D. Dumbbell Curl, 3 sets, 12-15 reps
+E. Face pull, 3 sets, 12-15 reps
+
+## Base Wave 3 Week 1 Day 3
+A. Deadlift, 6 sets, 4+ reps, 2:00 rest, 75% int
+B. Front Squat, 3 sets, 8 reps, 2:00 rest, 6 RPE
+C. Lat Pulldown, 3 sets, 12-15 reps
+D. Leg Curl, 3 sets, 12-15 reps
+E. Leg Extension, 3 sets, 12-15 reps
+D. Deadbug, 3 sets, 12-15 reps
+
+### Base Wave 3 Week 2 Day 4
+A. Overhead Press, 6 sets, 4+ reps, 2:00 rest, 75% int
+B. Spoto Press, 3 sets, 8 reps, 2:00 rest, 6 RPE
+C. Tricep Overhead Extension, 3 sets, 12-15 reps
+D. Dumbbell Curl, 3 sets, 12-15 reps
+E. Face pull, 3 sets, 12-15 reps
+
+## Base Wave 3 Week 2 Day 1
+A. Squat, 6 sets, 4+ reps, 2:00 rest, update manual
+B. RDL, 4 sets, 8 reps, 2:00 rest, 7 RPE
+C. Barbell Row, 4 sets, 12-15 reps
+D. Leg Curl, 4 sets, 12-15 reps
+E. Leg Extension, 4 sets, 12-15 reps
+D. Deadbug, 4 sets, 12-15 reps
+
+## Base Wave 3 Week 2 Day 2
+A. Bench Press, 6 sets, 4+ reps, 2:00 rest, update manual
+B. Tempo OHP, 4 sets, 8 reps, 2:00 rest, 7 RPE
+C. Tricep Overhead Extension, 4 sets, 12-15 reps
+D. Dumbbell Curl, 4 sets, 12-15 reps
+E. Face pull, 4 sets, 12-15 reps
+
+## Base Wave 3 Week 2 Day 3
+A. Deadlift, 6 sets, 4+ reps, 2:00 rest, update manual
+B. Front Squat, 4 sets, 8 reps, 2:00 rest, 7 RPE
+C. Lat Pulldown, 4 sets, 12-15 reps
+D. Leg Curl, 4 sets, 12-15 reps
+E. Leg Extension, 4 sets, 12-15 reps
+D. Deadbug, 4 sets, 12-15 reps
+
+## Base Wave 3 Week 2 Day 4
+A. Overhead Press, 6 sets, 4+ reps, 2:00 rest, update manual
+B. Spoto Press, 4 sets, 8 reps, 2:00 rest, 7 RPE
+C. Tricep Overhead Extension, 4 sets, 12-15 reps
+D. Dumbbell Curl, 4 sets, 12-15 reps
+E. Face pull, 4 sets, 12-15 reps
+
+## Base Wave 3 Week 3 Day 1
+A. Squat, 6 sets, 4+ reps, 2:00 rest, update manual
+B. RDL, 5 sets, 8 reps, 2:00 rest, 8 RPE
+C. Barbell Row, 5-6 sets, 12-15 reps
+D. Leg Curl, 5-6 sets, 12-15 reps
+E. Leg Extension, 5-6 sets, 12-15 reps
+D. Deadbug, 5-6 sets, 12-15 reps
+
+## Base Wave 3 Week 3 Day 2
+A. Bench Press, 6 sets, 4+ reps, 2:00 rest, update manual
+B. Tempo OHP, 5 sets, 8 reps, 2:00 rest, 8 RPE
+C. Tricep Overhead Extension, 5-6 sets, 12-15 reps
+D. Dumbbell Curl, 5-6 sets, 12-15 reps
+E. Face pull, 5-6 sets, 12-15 reps
+
+## Base Wave 3 Week 3 Day 3
+A. Deadlift, 6 sets, 4+ reps, 2:00 rest, update manual
+B. Front Squat, 5 sets, 8 reps, 2:00 rest, 8 RPE
+C. Lat Pulldown, 5-6 sets, 12-15 reps
+D. Leg Curl, 5-6 sets, 12-15 reps
+E. Leg Extension, 5-6 sets, 12-15 reps
+D. Deadbug, 5-6 sets, 12-15 reps
+
+## Base Wave 3 Week 4 Day 4
+A. Overhead Press, 6 sets, 4+ reps, 2:00 rest, update manual
+B. Spoto Press, 5 sets, 8 reps, 2:00 rest, 8 RPE
+C. Tricep Overhead Extension, 5-6 sets, 12-15 reps
+D. Dumbbell Curl, 5-6 sets, 12-15 reps
+E. Face pull, 5-6 sets, 12-15 reps
+
+## Peak Wave 1 Week 1 Day 1
+A. Squat, 5 sets, 3+ reps, 3:00 rest, 80% int
+B. Paused Deadlift, 4 sets, 6 reps, 3:00 rest, 6 RPE
+C. Front Squat, 4 sets, 6 reps, 3:00 rest, 6 RPE
+D. Barbell Row, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 1 Day 2
+A. Bench Press, 5 sets, 3+ reps, 3:00 rest, 80% int
+B. Pin Press, 4 sets, 6 reps, 3:00 rest, 6 RPE
+C. Tempo Bench Press, 4 sets, 6 reps, 3:00 rest, 6 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 1 Day 3
+A. Deadlift, 5 sets, 3+ reps, 3:00 rest, 80% int
+B. Paused Squat, 4 sets, 6 reps, 3:00 rest, 6 RPE
+C. RDL, 4 sets, 6 reps, 3:00 rest, 6 RPE
+D. Lat Pulldown, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 1 Day 4
+A. Overhead Press, 5 sets, 3+ reps, 3:00 rest, 80% int
+B. Pin Press, 4 sets, 6 reps, 3:00 rest, 6 RPE
+C. Tempo OHP, 4 sets, 6 reps, 3:00 rest, 6 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 2 Day 1
+A. Squat, 3 sets, 3+ reps, 3:00 rest, update manual
+B. Paused Deadlift, 3 sets, 6 reps, 3:00 rest, 7 RPE
+C. Front Squat, 3 sets, 6 reps, 3:00 rest, 7 RPE
+D. Barbell Row, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 2 Day 2
+A. Bench Press, 3 sets, 3+ reps, 3:00 rest, update manual
+B. Pin Press, 3 sets, 6 reps, 3:00 rest, 7 RPE
+C. Tempo Bench Press, 3 sets, 6 reps, 3:00 rest, 7 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 2 Day 3
+A. Deadlift, 3 sets, 3+ reps, 3:00 rest, update manual
+B. Paused Squat, 3 sets, 6 reps, 3:00 rest, 7 RPE
+C. RDL, 3 sets, 6 reps, 3:00 rest, 7 RPE
+D. Lat Pulldown, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 2 Day 4
+A. Overhead Press, 3 sets, 3+ reps, 3:00 rest, update manual
+B. Pin Press, 3 sets, 6 reps, 3:00 rest, 7 RPE
+C. Tempo OHP, 3 sets, 6 reps, 3:00 rest, 7 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 3 Day 1
+A. Squat, 1 sets, 3+ reps, 3:00 rest, update manual
+B. Paused Deadlift, 2 sets, 6 reps, 3:00 rest, 8 RPE
+C. Front Squat, 2 sets, 6 reps, 3:00 rest, 8 RPE
+D. Barbell Row, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 3 Day 2
+A. Bench Press, 1 sets, 3+ reps, 3:00 rest, update manual
+B. Pin Press, 2 sets, 6 reps, 3:00 rest, 8 RPE
+C. Tempo Bench Press, 2 sets, 6 reps, 3:00 rest, 8 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 3 Day 3
+A. Deadlift, 1 sets, 3+ reps, 3:00 rest, update manual
+B. Paused Squat, 2 sets, 6 reps, 3:00 rest, 8 RPE
+C. RDL, 2 sets, 6 reps, 3:00 rest, 8 RPE
+D. Lat Pulldown, 3-5 sets, 8-12 reps
+
+## Peak Wave 1 Week 3 Day 4
+A. Overhead Press, 1 sets, 3+ reps, 3:00 rest, update manual
+B. Pin Press, 2 sets, 6 reps, 3:00 rest, 8 RPE
+C. Tempo OHP, 2 sets, 6 reps, 3:00 rest, 8 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 1 Day 1
+A. Squat, 5 sets, 2+ reps, 3:00 rest, 85% int
+B. Paused Deadlift, 4 sets, 5 reps, 3:00 rest, 6 RPE
+C. Front Squat, 4 sets, 5 reps, 3:00 rest, 6 RPE
+D. Barbell Row, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 1 Day 2
+A. Bench Press, 5 sets, 2+ reps, 3:00 rest, 85% int
+B. Pin Press, 4 sets, 5 reps, 3:00 rest, 6 RPE
+C. Tempo Bench Press, 4 sets, 5 reps, 3:00 rest, 6 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 1 Day 3
+A. Deadlift, 5 sets, 2+ reps, 3:00 rest, 85% int
+B. Paused Squat, 4 sets, 5 reps, 3:00 rest, 6 RPE
+C. RDL, 4 sets, 5 reps, 3:00 rest, 6 RPE
+D. Lat Pulldown, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 1 Day 4
+A. Overhead Press, 5 sets, 2+ reps, 3:00 rest, 85% int
+B. Pin Press, 4 sets, 5 reps, 3:00 rest, 6 RPE
+C. Tempo OHP, 4 sets, 5 reps, 3:00 rest, 6 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 2 Day 1
+A. Squat, 3 sets, 2+ reps, 3:00 rest, update manual
+B. Paused Deadlift, 3 sets, 5 reps, 3:00 rest, 7 RPE
+C. Front Squat, 3 sets, 5 reps, 3:00 rest, 7 RPE
+D. Barbell Row, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 2 Day 2
+A. Bench Press, 3 sets, 2+ reps, 3:00 rest, update manual
+B. Pin Press, 3 sets, 5 reps, 3:00 rest, 7 RPE
+C. Tempo Bench Press, 3 sets, 5 reps, 3:00 rest, 7 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 2 Day 3
+A. Deadlift, 3 sets, 2+ reps, 3:00 rest, update manual
+B. Paused Squat, 3 sets, 5 reps, 3:00 rest, 7 RPE
+C. RDL, 3 sets, 5 reps, 3:00 rest, 7 RPE
+D. Lat Pulldown, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 2 Day 4
+A. Overhead Press, 3 sets, 2+ reps, 3:00 rest, update manual
+B. Pin Press, 3 sets, 5 reps, 3:00 rest, 7 RPE
+C. Tempo OHP, 3 sets, 5 reps, 3:00 rest, 7 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 3 Day 1
+A. Squat, 1 sets, 2+ reps, 3:00 rest, update manual
+B. Paused Deadlift, 2 sets, 5 reps, 3:00 rest, 8 RPE
+C. Front Squat, 2 sets, 5 reps, 3:00 rest, 8 RPE
+D. Barbell Row, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 3 Day 2
+A. Bench Press, 1 sets, 2+ reps, 3:00 rest, update manual
+B. Pin Press, 2 sets, 5 reps, 3:00 rest, 8 RPE
+C. Tempo Bench Press, 2 sets, 5 reps, 3:00 rest, 8 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 3 Day 3
+A. Deadlift, 1 sets, 2+ reps, 3:00 rest, update manual
+B. Paused Squat, 2 sets, 5 reps, 3:00 rest, 8 RPE
+C. RDL, 2 sets, 5 reps, 3:00 rest, 8 RPE
+D. Lat Pulldown, 3-5 sets, 8-12 reps
+
+## Peak Wave 2 Week 3 Day 4
+A. Overhead Press, 1 sets, 2+ reps, 3:00 rest, update manual
+B. Pin Press, 2 sets, 5 reps, 3:00 rest, 8 RPE
+C. Tempo OHP, 2 sets, 5 reps, 3:00 rest, 8 RPE
+D. Overhead Tricep Extension, 3-5 sets, 8-12 reps
+E. Face Pull, 3-5 sets, 8-12 reps
+
+## Peak Wave 3 Week 1 Day 1
+A. Squat, 5 sets, 1+ reps, 3:00 rest, 90% int
+B. Paused Deadlift, 4 sets, 4 reps, 3:00 rest, 6 RPE
+C. Front Squat, 4 sets, 4 reps, 3:00 rest, 6 RPE
+
+## Peak Wave 3 Week 1 Day 2
+A. Bench Press, 5 sets, 1+ reps, 3:00 rest, 90% int
+B. Pin Press, 4 sets, 4 reps, 3:00 rest, 6 RPE
+C. Tempo Bench Press, 4 sets, 4 reps, 3:00 rest, 6 RPE
+
+## Peak Wave 3 Week 1 Day 3
+A. Deadlift, 5 sets, 1+ reps, 3:00 rest, 90% int
+B. Paused Squat, 4 sets, 4 reps, 3:00 rest, 6 RPE
+C. RDL, 4 sets, 4 reps, 3:00 rest, 6 RPE
+
+## Peak Wave 3 Week 1 Day 4
+A. Overhead Press, 5 sets, 1+ reps, 3:00 rest, 90% int
+B. Pin Press, 4 sets, 4 reps, 3:00 rest, 6 RPE
+C. Tempo OHP, 4 sets, 4 reps, 3:00 rest, 6 RPE
+
+## Peak Wave 3 Week 2 Day 1
+A. Squat, 3 sets, 1+ reps, 3:00 rest, update manual
+B. Paused Deadlift, 3 sets, 4 reps, 3:00 rest, 7 RPE
+C. Front Squat, 3 sets, 4 reps, 3:00 rest, 7 RPE
+
+## Peak Wave 3 Week 2 Day 2
+A. Bench Press, 3 sets, 1+ reps, 3:00 rest, update manual
+B. Pin Press, 3 sets, 4 reps, 3:00 rest, 7 RPE
+C. Tempo Bench Press, 3 sets, 4 reps, 3:00 rest, 7 RPE
+
+## Peak Wave 3 Week 2 Day 3
+A. Deadlift, 3 sets, 1+ reps, 3:00 rest, update manual
+B. Paused Squat, 3 sets, 4 reps, 3:00 rest, 7 RPE
+C. RDL, 3 sets, 4 reps, 3:00 rest, 7 RPE
+
+## Peak Wave 3 Week 2 Day 4
+A. Overhead Press, 3 sets, 1+ reps, 3:00 rest, update manual
+B. Pin Press, 3 sets, 4 reps, 3:00 rest, 7 RPE
+C. Tempo OHP, 3 sets, 4 reps, 3:00 rest, 7 RPE
+
+## Peak Wave 3 Week 2 Day 1
+A. Squat, 1 sets, 1+ reps, 3:00 rest, update manual
+B. Paused Deadlift, 2 sets, 4 reps, 3:00 rest, 8 RPE
+C. Front Squat, 2 sets, 4 reps, 3:00 rest, 8 RPE
+
+## Peak Wave 3 Week 2 Day 2
+A. Bench Press, 1 sets, 1+ reps, 3:00 rest, update manual
+B. Pin Press, 2 sets, 4 reps, 3:00 rest, 8 RPE
+C. Tempo Bench Press, 2 sets, 4 reps, 3:00 rest, 8 RPE
+
+## Peak Wave 3 Week 2 Day 3
+A. Deadlift, 1 sets, 1+ reps, 3:00 rest, update manual
+B. Paused Squat, 2 sets, 4 reps, 3:00 rest, 8 RPE
+C. RDL, 2 sets, 4 reps, 3:00 rest, 8 RPE
+
+## Peak Wave 3 Week 2 Day 4
+A. Overhead Press, 1 sets, 1+ reps, 3:00 rest, update manual
+B. Pin Press, 2 sets, 4 reps, 3:00 rest, 8 RPE
+C. Tempo OHP, 2 sets, 4 reps, 3:00 rest, 8 RPE
+
