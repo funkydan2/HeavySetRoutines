@@ -261,3 +261,40 @@ E2. Plank Rotation, 1 set, 30 reps, 75.0% intensity, 0:30 rest , update manual_1
 E3. Reverse Fly, 1 set, 12 reps, 75.0% intensity, 0:20 rest , update manual_1rm_higher 
 E4. Plank Rotation, 1 set, 30 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
 
+## LEGS
+/Bulk 
+
+A1. Front to Back Lunge, 1 set, 12 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+A2. Front to Back Lunge, 1 set, 12 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+A3. Front to Back Lunge, 1 set, 10 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Front to Back Lunge, 1 set, 10 reps, 75.0% intensity, 0:45 rest , update manual_1rm_higher 
+A5. Front to Back Lunge, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A6. Front to Back Lunge, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+B1. Squat, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+B2. Squat, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B3. Squat, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+B4. Squat, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+B5. Squat, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B6. Squat, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+C. Full to 1/2 Sumo Squat, 5 sets, 5 reps, 75.0% intensity, 0:20 rest , update manual_1rm_higher 
+D1. Split Squat w/ EZ Bar (left), 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D2. Split Squat w/ EZ Bar (right), 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D3. Split Squat w/ EZ Bar (left), 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+D4. Split Squat w/ EZ Bar (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D5. Split Squat w/ EZ Bar (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+D6. Split Squat w/ EZ Bar (right), 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+D7. Split Squat w/ EZ Bar (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+D8. Split Squat w/ EZ Bar (right), 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+D9. Split Squat w/ EZ Bar (left), 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+D10. Split Squat w/ EZ Bar (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D11. Split Squat w/ EZ Bar (left), 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D12. Split Squat w/ EZ Bar (right), 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+E1. Stiff Leg Deadlift, 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+E2. Alt. Side Squat, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E3. Stiff Leg Deadlift, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+E4. Alt. Side Squat, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E5. Stiff Leg Deadlift, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+E6. Alt. Side Squat, 1 set, 8 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+E7. Stiff Leg Deadlift, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+F1. Calf Raise, 2 sets, 50 reps, 75.0% intensity, 0:50 rest , update manual_1rm_higher 
+F2. Beast Abs, 2 sets, 30 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
