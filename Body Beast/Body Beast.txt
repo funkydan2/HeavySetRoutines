@@ -133,7 +133,7 @@ D4. In and Outs, 1 set, 30 reps, 75.0% intensity , 0:30 rest , update manual_1rm
 
 
 
-## SHOULDDERS
+## SHOULDERS
 /Build
 
 A1. Shoulder Press	 1 set	 15 reps	 50.0% intensity	 0:30 rest 	 update manual_1rm_higher  
@@ -298,3 +298,34 @@ E6. Alt. Side Squat, 1 set, 8 reps, 75.0% intensity, 0:10 rest , update manual_1
 E7. Stiff Leg Deadlift, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
 F1. Calf Raise, 2 sets, 50 reps, 75.0% intensity, 0:50 rest , update manual_1rm_higher 
 F2. Beast Abs, 2 sets, 30 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+
+## SHOULDERS
+/Bulk
+
+A1. Lateral Raise, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+A2. Arnold Press, 1 set, 15 reps, 50.0% intensity , 0:30 rest , update manual_1rm_higher 
+A3. Lateral Raise, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Arnold Press, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A5. Lateral Raise, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A6. Arnold Press, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A7. Lateral Raise, 1 set, 8 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B1. Upright Row, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+B2. Upright Row, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B3. Upright Row, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+B4. Upright Row, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+B5. Upright Row, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B6. Upright Row, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+C1. Alt. Front Raise, 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+C2. Plate Twist-Twist, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+C3. Alt. Front Raise, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+C4. Plate Twist-Twist, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+C5. Alt. Front Raise, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+C6. Plate Twist-Twist, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D1. Reverse Fly, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D2. Reverse Fly, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D3. Reverse Fly, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+D4. Reverse Fly, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+D5. Reverse Fly, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D6. Reverse Fly, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+E1. Superman Stretch, 2 sets, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E2. Plank Twist-Twist, 2 sets, 30 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
