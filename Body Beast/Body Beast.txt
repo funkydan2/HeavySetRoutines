@@ -1,0 +1,357 @@
+---
+folder: Body Beast
+image: https://soreyfitness.com/wp-content/uploads/2021/03/body-beast-review-min-570x285.jpg
+color: #8dc63f
+
+- Original author: Sagi Kalev.
+- Full program instructions: https://www.beachbodyondemand.com/programs/body-beast/start-here?referralprogramid=BE&trainername=SagiKalev
+
+- Full program worksheet: https://images.beachbody.com/pdf/bodybeast/BEAST_worksheet.pdf
+
+---
+
+
+## BACK & BIS
+/Build
+
+A1. Deadlift, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+A2. Deadlift, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A3. Deadlift, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Deadlift, 1 set, 8 reps, 75.0% intensity, 1:00 rest , update manual_1rm_higher 
+B1. Dumbbell Pull-Over, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+B2. Pull-Up, 1 set, 10 reps, 50.0% intensity , 0:30 rest , 
+B3. Dumbbell Pull-Over, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+B4. Pull-Up, 1 set, 10 reps, 50.0% intensity , 0:30 rest , 
+B5. Dumbbell Pull-Over, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+B6. Dumbbell Pull-Over, 1 set, 8 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+B7. Pull-Up, 1 set, 10 reps, 50.0% intensity , 1:00 rest , 
+C1. EZ Bar Row, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+C2. One-Arm Row (Left), 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+C3. One-Arm Row (right), 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+C4. Reverse Fly, 1 set, 15 reps, 50.0% intensity , 0:30 rest , update manual_1rm_higher 
+C5. EZ Bar Row, 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+C6. One-Arm Row (Left), 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+C7. One-Arm Row (right), 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+C8. Reverse Fly, 1 set, 12 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+C9. EZ Bar Row, 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+C10. One-Arm Row (Left), 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+C11. One-Arm Row (right), 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+C12. Reverse Fly, 1 set, 8 reps, 90.0% intensity , 1:30 rest , update manual_1rm_higher 
+D1. Close-Grip Chin-Up, 3 sets, 10+ reps, 50.0% intensity, 0:20 rest , 
+E1. Seated Bicep Curl, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+E2. Seated Bicep Curl, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E3. Seated Bicep Curl, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+E4. Seated Bicep Curl, 1 set, 8 reps, 75.0% intensity, 1:00 rest , update manual_1rm_higher 
+F1. 1-1-2 Hammer Curl, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+F2. 1-1-2 Hammer Curl, 1 set, 12 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+F3. 1-1-2 Hammer Curl, 1 set, 8 reps, 90.0% intensity , 1:00 rest , update manual_1rm_higher 
+G1. Neutral EZ Bar Curl, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+G2. Neutral EZ Bar Curl, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+G3. Neutral EZ Bar Curl, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+G4. Neutral EZ Bar Curl, 1 set, 8 reps, 75.0% intensity, 1:00 rest , update manual_1rm_higher 
+H1. Airplane Cobra, 2 sets, , , 0:30 rest, 
+
+
+
+## CHEST & TRIS
+/Build
+
+A1. Dumbbell Chest Press, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+A2. Dumbbell Chest Press, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A3. Dumbbell Chest Press, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Dumbbell Chest Press, 1 set, 8 reps, 75.0% intensity, 1:00 rest , update manual_1rm_higher 
+B1. Incline Dumbbell Fly, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+B2. Incline Dumbbell Press, 1 set, 15 reps, 50.0% intensity , 0:30 rest , update manual_1rm_higher 
+B3. Incline Dumbbell Fly, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+B4. Incline Dumbbell Press, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B5. Incline Dumbbell Fly, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+B6. Incline Dumbbell Press, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+B7. Incline Dumbbell Press, 1 set, 8 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+C1. Close Grip Press, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+C2. Partial Chest Fly, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+C3. Decline Push-Up, 1 set, 15 reps, 50.0% intensity , 0:30 rest , update manual_1rm_higher 
+C4. Close Grip Press, 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+C5. Partial Chest Fly, 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+C6. Decline Push-Up, 1 set, 12 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+C7. Close Grip Press, 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+C8. Partial Chest Fly, 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+C9. Decline Push-Up, 1 set, 8 reps, 90.0% intensity , 1:30 rest , update manual_1rm_higher 
+D1. Tricep Extension, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D2. Tricep Extension, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D3. Tricep Extension, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+D4. Tricep Extension, 1 set, 8 reps, 75.0% intensity, 1:00 rest , update manual_1rm_higher 
+E1. Tricep Kickback (left), 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+E2. Tricep Kickback (right), 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+E3. Tricep Push-Up, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+E4. Tricep Kickback (left), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E5. Tricep Kickback (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E6. Tricep Push-Up, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E7. Tricep Kickback (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+E8. Tricep Kickback (left), 1 set, 8 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E9. Tricep Kickback (right), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+E10. Tricep Kickback (right), 1 set, 8 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E11. Tricep Push-Up, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+F1. Dips on Bench, 1 set, 20 reps, 75.0% intensity, 1:00 rest , 
+G1. In and Outs, 1 set, 30 reps, 75.0% intensity, 1:00 rest , 
+
+
+## LEGS
+/Build
+
+A1. Sumo Squat, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+A2. Sumo Squat, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A3. Sumo Squat, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Sumo Squat, 1 set, 8 reps, 75.0% intensity, 1:30 rest , update manual_1rm_higher 
+B1. Alternating Lunge, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+B2. Step-Up to Reverse Lunge (left), 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+B3. Step-Up to Reverse Lunge (right), 1 set, 15 reps, 50.0% intensity , 0:30 rest , update manual_1rm_higher 
+B4. Alternating Lunge, 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+B5. Step-Up to Reverse Lunge (left), 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+B6. Step-Up to Reverse Lunge (right), 1 set, 12 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+B7. Alternating Lunge, 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+B8. Step-Up to Reverse Lunge (left), 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+B9. Step-Up to Reverse Lunge (right), 1 set, 8 reps, 90.0% intensity , 1:30 rest , update manual_1rm_higher 
+C1. Parallel Squat, 1 set, 15 reps, 50.0% intensity , 0:20 rest , update manual_1rm_higher 
+C2. Bulgarian Squat (left), 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+C3. Bulgarian Squat (right), 1 set, 15 reps, 50.0% intensity , 0:20 rest , update manual_1rm_higher 
+C4. Straight Leg Deadlift (left), 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+C5. Straight Leg Deadlift (right), 1 set, 15 reps, 50.0% intensity , 0:30 rest , update manual_1rm_higher 
+C6. Parallel Squat, 1 set, 12 reps, 75.0% intensity , 0:20 rest , update manual_1rm_higher 
+C7. Bulgarian Squat (left), 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+C8. Bulgarian Squat (right), 1 set, 12 reps, 75.0% intensity , 0:20 rest , update manual_1rm_higher 
+C9. Straight Leg Deadlift (left), 1 set, 12 reps, 75.0% intensity , 0:10 rest , update manual_1rm_higher 
+C10. Straight Leg Deadlift (right), 1 set, 12 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+C11. Parallel Squat, 1 set, 8 reps, 90.0% intensity , 0:20 rest , update manual_1rm_higher 
+C12. Bulgarian Squat (left), 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+C13. Bulgarian Squat (right), 1 set, 8 reps, 90.0% intensity , 0:20 rest , update manual_1rm_higher 
+C14. Straight Leg Deadlift (left), 1 set, 8 reps, 90.0% intensity , 0:10 rest , update manual_1rm_higher 
+C15. Straight Leg Deadlift (right), 1 set, 8 reps, 90.0% intensity , 1:30 rest , update manual_1rm_higher 
+D1. Single Leg Calf Raise (left), 1 set, 30 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+D2. Single Leg Calf Raise (right), 1 set, 30 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+D3. Seated Calf Raise, 1 set, 30 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+D4. In and Outs, 1 set, 30 reps, 75.0% intensity , 0:30 rest , update manual_1rm_higher 
+
+
+
+## SHOULDERS
+/Build
+
+A1. Shoulder Press	 1 set	 15 reps	 50.0% intensity	 0:30 rest 	 update manual_1rm_higher  
+A2. Shoulder Press	 1 set	 12 reps	 75.0% intensity	 0:30 rest   	 update manual_1rm_higher  
+A3. Shoulder Press	 1 set	 8 reps	  90.0% intensity	 0:10 rest   	 update manual_1rm_higher  
+A4. Shoulder Press	 1 set	 8 reps	  75.0% intensity	 1:30 rest   	 update manual_1rm_higher  
+B1. Lateral Raise	 1 set	 15 reps	 50.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+B2. Upright Row	 1 set	 15 reps	 50.0% intensity  	 0:30 rest   	 update manual_1rm_higher  
+B3. Lateral Raise	 1 set	 12 reps	 75.0% intensity	 0:10 rest 	 update manual_1rm_higher  
+B4. Upright Row	 1 set	 12 reps	 75.0% intensity	 0:30 rest   	 update manual_1rm_higher  
+B5. Lateral Raise	 1 set	 8 reps	  90.0% intensity	 0:10 rest 	 update manual_1rm_higher  
+B6. Upright Row	 1 set	 8 reps	  90.0% intensity	 0:10 rest 	 update manual_1rm_higher  
+B7. Upright Row	 1 set	 8 reps	 75.0% intensity	 1:30 rest   	 update manual_1rm_higher  
+C1. EZ Bar Underhand Press	 1 set	 15 reps	 50.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+C2. 1-1-2 Front Raise	 1 set	 15 reps	 50.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+C3. Rear Delt Raise	 1 set	 15 reps	 50.0% intensity  	 0:30 rest   	 update manual_1rm_higher  
+C4. EZ Bar Underhand Press	 1 set	 12 reps	 75.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+C5. 1-1-2 Front Raise	 1 set	 12 reps	 75.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+C6. Rear Delt Raise	 1 set	 12 reps	 75.0% intensity  	 0:30 rest   	 update manual_1rm_higher  
+C7. EZ Bar Underhand Press	 1 set	 8 reps	 90.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+C8. 1-1-2 Front Raise	 1 set	 8 reps	 90.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+C9. Rear Delt Raise	 1 set	 8 reps	 90.0% intensity  	 1:30 rest   	 update manual_1rm_higher  
+D1. Standing Dumbbell Shrug	 1 set	 15 reps	 50.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+D2. Dumbbell Scap Trap	 1 set	 15 reps	 50.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+D3. Standing Dumbbell Shrug	 1 set	 12 reps	 75.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+D4. Dumbbell Scap Trap	 1 set	 12 reps	 75.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+D5. Standing Dumbbell Shrug	 1 set	 8 reps	 90.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+D6. Dumbbell Scap Trap	 1 set	 8 reps	 90.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+D7. Standing Dumbbell Shrug	 1 set	 8 reps	 75.0% intensity  	 1:30 rest   	 update manual_1rm_higher  
+E1. Sagi Six-Way	 1 set	12 reps	 75.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+E2. Tuck & Roll	 1 set	15 reps	 75.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+E3. Sagi Six-Way	 1 set	8 reps	 75.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+E4. Tuck & Roll	 1 set	15 reps	 75.0% intensity  	 0:10 rest 	 update manual_1rm_higher  
+
+
+## TOTAL BODY
+/Build
+
+A1. Pull-Up, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+A2. Push-Up, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+A3. Squat, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Crunch, 2 sets, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+B1. Incline Press, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+B2. Bent-over Row, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+B3. Reverse Alternating Lunge, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+B4. Plank Twist-twist, 2 sets, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+C1. 1-1-2 Military Press, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+C2. Post Delt Raise (left), 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+C3. Post Delt Raise (right), 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+C4. Stiff Leg Deadlift, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+C5. Russian Twist, 2 sets, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D1. Bicep Curl-Up-Hammer Down, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D2. Tricep Kickback (left), 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D3. Tricep Kickback (right), 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D4. Calf Raise-Weight at Shoulder, 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D5. Side Forearm Plank (left), 2 sets, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D6. Side Forearm Plank (Right), 2 sets, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+
+
+## ARMS
+/Bulk
+
+A1. Standing Curl, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+A2. Standing Curl, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A3. Standing Curl, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+A4. Standing Curl, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+A5. Standing Curl, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A6. Standing Curl, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+B1. Tricep Extension, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+B2. Tricep Extension, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B3. Tricep Extension, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+B4. Tricep Extension, 1 set, 8 reps, 75.0% intensity, 1:30 rest , update manual_1rm_higher 
+C. Wide EZ Bar Curl, 5 sets, 5 reps, 75.0% intensity, 0:20 rest , update manual_1rm_higher 
+D1. Hammer Curl (left), 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D2. Hammer Curl (right), 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D3. Hammer Curl (left), 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+D4. Hammer Curl (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D5. Hammer Curl (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+D6. Hammer Curl (right), 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+D7. Hammer Curl (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+D8. Hammer Curl (right), 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+D9. Hammer Curl (left), 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+D10. Hammer Curl (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D11. Hammer Curl (left), 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D12. Hammer Curl (right), 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+E1. Tricep kickback (left), 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+E2. Tricep kickback (right), 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+E3. Tricep kickback (left), 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+E4. Tricep kickback (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E5. Tricep kickback (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+E6. Tricep kickback (right), 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+E7. Tricep kickback (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+E8. Tricep kickback (right), 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+E9. Tricep kickback (left), 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+E10. Tricep kickback (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E11. Tricep kickback (left), 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+E12. Tricep kickback (right), 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+F. Weighted Crunch, 1 set, 30 reps, 75.0% intensity, 1:30 rest, update manual_1rm_higher 
+
+## CHEST
+/Bulk
+
+A1. Incline Dumbbell Fly, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+A2. Incline Dumbbell Press, 1 set, 15 reps, 50.0% intensity , 0:30 rest , update manual_1rm_higher 
+A3. Incline Dumbbell Fly, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Incline Dumbbell Press, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A5. Incline Dumbbell Fly, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A6. Incline Dumbbell Press, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A7. Incline Dumbbell Press, 1 set, 8 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B. Wide EZ Bar Curl, 5 sets, 5 reps, 75.0% intensity, 0:20 rest , update manual_1rm_higher 
+C1. Incline Press, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+C2. Incline Press, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+C3. Incline Press, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+C4. Incline Press, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+C5. Incline Press, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+C6. Incline Press, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+D1. Close-Grip Press to Fly, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D2. Close-Grip Press to Fly, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D3. Close-Grip Press to Fly, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+E1. Decline Push-Up, 1 set, 15 reps, 50.0% intensity, 0:20 rest , update manual_1rm_higher 
+E2. Cobra to Airplane, 1 set, 10 reps, 50.0% intensity, 0:20 rest , update manual_1rm_higher 
+E3. Decline Push-Up, 1 set, 12 reps, 50.0% intensity, 0:20 rest , update manual_1rm_higher 
+E4. Russian Twist, 1 set, 10 reps, 50.0% intensity, 0:20 rest , update manual_1rm_higher 
+E5. Decline Push-Up, 1 set, 8 reps, 50.0% intensity, 0:20 rest , update manual_1rm_higher 
+
+
+## BACK
+/Bulk
+
+A1. Pull-Over, 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+A2. Pull-Up, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A3. Pull-Over, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Pull-Up, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A5. Pull-Over, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A6. Pull-Over, 1 set, 8 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+A7. Pull-Up, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B1. Reverse Grip Row, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+B2. Reverse Grip Row, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B3. Reverse Grip Row, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+B4. Reverse Grip Row, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+B5. Reverse Grip Row, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B6. Reverse Grip Row, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+C1. One-Arm Row (left), 5 sets, 5 reps, 75.0% intensity, 0:20 rest , update manual_1rm_higher 
+C2. One-Arm Row (right), 5 sets, 5 reps, 75.0% intensity, 0:20 rest , update manual_1rm_higher 
+D1. Deadlift, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D2. Deadlift, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D3. Deadlift, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+D4. Deadlift, 1 set, 8 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E1. Reverse Fly, 1 set, 15 reps, 50.0% intensity, 0:20 rest , update manual_1rm_higher 
+E2. Plank Rotation, 1 set, 30 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E3. Reverse Fly, 1 set, 12 reps, 75.0% intensity, 0:20 rest , update manual_1rm_higher 
+E4. Plank Rotation, 1 set, 30 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+
+## LEGS
+/Bulk 
+
+A1. Front to Back Lunge, 1 set, 12 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+A2. Front to Back Lunge, 1 set, 12 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+A3. Front to Back Lunge, 1 set, 10 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Front to Back Lunge, 1 set, 10 reps, 75.0% intensity, 0:45 rest , update manual_1rm_higher 
+A5. Front to Back Lunge, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A6. Front to Back Lunge, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+B1. Squat, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+B2. Squat, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B3. Squat, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+B4. Squat, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+B5. Squat, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B6. Squat, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+C. Full to 1/2 Sumo Squat, 5 sets, 5 reps, 75.0% intensity, 0:20 rest , update manual_1rm_higher 
+D1. Split Squat w/ EZ Bar (left), 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D2. Split Squat w/ EZ Bar (right), 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D3. Split Squat w/ EZ Bar (left), 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+D4. Split Squat w/ EZ Bar (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D5. Split Squat w/ EZ Bar (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+D6. Split Squat w/ EZ Bar (right), 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+D7. Split Squat w/ EZ Bar (left), 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+D8. Split Squat w/ EZ Bar (right), 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+D9. Split Squat w/ EZ Bar (left), 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+D10. Split Squat w/ EZ Bar (right), 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D11. Split Squat w/ EZ Bar (left), 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+D12. Split Squat w/ EZ Bar (right), 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+E1. Stiff Leg Deadlift, 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+E2. Alt. Side Squat, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E3. Stiff Leg Deadlift, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+E4. Alt. Side Squat, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E5. Stiff Leg Deadlift, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+E6. Alt. Side Squat, 1 set, 8 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+E7. Stiff Leg Deadlift, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+F1. Calf Raise, 2 sets, 50 reps, 75.0% intensity, 0:50 rest , update manual_1rm_higher 
+F2. Beast Abs, 2 sets, 30 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+
+## SHOULDERS
+/Bulk
+
+A1. Lateral Raise, 1 set, 15 reps, 50.0% intensity , 0:10 rest , update manual_1rm_higher 
+A2. Arnold Press, 1 set, 15 reps, 50.0% intensity , 0:30 rest , update manual_1rm_higher 
+A3. Lateral Raise, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+A4. Arnold Press, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+A5. Lateral Raise, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A6. Arnold Press, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+A7. Lateral Raise, 1 set, 8 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B1. Upright Row, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+B2. Upright Row, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B3. Upright Row, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+B4. Upright Row, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+B5. Upright Row, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+B6. Upright Row, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+C1. Alt. Front Raise, 1 set, 15 reps, 50.0% intensity, 0:10 rest , update manual_1rm_higher 
+C2. Plate Twist-Twist, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+C3. Alt. Front Raise, 1 set, 12 reps, 75.0% intensity, 0:10 rest , update manual_1rm_higher 
+C4. Plate Twist-Twist, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+C5. Alt. Front Raise, 1 set, 8 reps, 90.0% intensity, 0:10 rest , update manual_1rm_higher 
+C6. Plate Twist-Twist, 1 set, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D1. Reverse Fly, 1 set, 15 reps, 50.0% intensity, 0:30 rest , update manual_1rm_higher 
+D2. Reverse Fly, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D3. Reverse Fly, 1 set, 8 reps, 90.0% intensity, 0:45 rest , update manual_1rm_higher 
+D4. Reverse Fly, 1 set, 8 reps, 90.0% intensity, 0:30 rest , update manual_1rm_higher 
+D5. Reverse Fly, 1 set, 12 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+D6. Reverse Fly, 1 set, 15 reps, 50.0% intensity, 1:30 rest, update manual_1rm_higher 
+E1. Superman Stretch, 2 sets, 10 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
+E2. Plank Twist-Twist, 2 sets, 30 reps, 75.0% intensity, 0:30 rest , update manual_1rm_higher 
